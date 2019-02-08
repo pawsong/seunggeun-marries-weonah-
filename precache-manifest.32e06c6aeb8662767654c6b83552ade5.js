@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/media/sw_1.e1ca6775.jpg"
   },
   {
-    "revision": "54671eec386c1476186b",
+    "revision": "61a350e4b6d56a814b90",
     "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/css/main.ba5a6f1d.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/media/sw.787f1892.jpg"
   },
   {
-    "revision": "54671eec386c1476186b",
-    "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/js/main.54671eec.chunk.js"
+    "revision": "61a350e4b6d56a814b90",
+    "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/js/main.61a350e4.chunk.js"
   },
   {
     "revision": "e37b6732fddfe716c65346550216a301",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "https://pawsong.github.io/seunggeun-marries-weonah-/static/css/1.ef306026.chunk.css"
   },
   {
-    "revision": "9279ab25d5da0f0cff31806c5c06d570",
+    "revision": "8fc5cff83d2492636a415ac4eb52da2e",
     "url": "https://pawsong.github.io/seunggeun-marries-weonah-/index.html"
   }
 ];
