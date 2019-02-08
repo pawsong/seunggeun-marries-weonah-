@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://pawsong.github.io/seunggeun-marries-weonah-/precache-manifest.4107d50c22f95b0f83abd5917101b7cb.js"
+  "https://pawsong.github.io/seunggeun-marries-weonah-/precache-manifest.d9ca40dde23f841eb2025fb6dae8ec4e.js"
 );
 
 workbox.clientsClaim();
